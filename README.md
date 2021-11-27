@@ -1,6 +1,8 @@
 
 # Wavy Project
 
+![Screenshot (103)](https://user-images.githubusercontent.com/94067118/143690147-29282c85-2832-4df8-bbfc-c0f19f2e38af.png)
+
 This is a simple and easiest project using HTML & CSS. In this project, i created one wavy shape like wave. Some animation i added using CSS for making realistic wavy shape. So, this is brief introduction about my small project. Checkout this project and thank you for visit!
 
 
