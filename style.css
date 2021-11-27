@@ -20,7 +20,7 @@ body{
 .wavy::before{
     content: 'aaaaaaaaa';
     position: absolute;
-    font-size: 4em;
+    font-size: 3.5em;
     color: transparent;
     top: -44px;
     left: 0px;
