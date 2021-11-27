@@ -13,7 +13,7 @@ body{
 .wavy{
     position: relative;
     width: 150px;
-    height: 55px;
+    height: 50px;
     background-color: transparent;
     overflow: hidden;
 }
@@ -22,7 +22,7 @@ body{
     position: absolute;
     font-size: 4em;
     color: transparent;
-    top: -42px;
+    top: -44px;
     left: 0px;
     text-decoration-style: wavy;
     text-decoration-color: white;
